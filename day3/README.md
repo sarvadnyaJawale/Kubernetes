@@ -10,6 +10,7 @@
 - Pods
 - exec in the pod
 - Debug Containers
+- K9's Tool & KubeLinter
 
 ## 🔗Documentations 
 - https://kubernetes.io/docs/home/
@@ -18,5 +19,5 @@
 - https://kind.sigs.k8s.io/
 - https://kubernetes.io/docs/tasks/debug/debug-cluster/kubectl-node-debug/
 - https://github.com/GoogleContainerTools/distroless
-- K9's  ### https://github.com/derailed/k9s?tab=readme-ov-file 
+- https://github.com/derailed/k9s?tab=readme-ov-file 
 
