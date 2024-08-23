@@ -1,11 +1,14 @@
-# Day-1 
+# Day 9 | Data Storage & User Management in Kubernetes | RBAC, Volumes, Storage Classes
 
-## Topics : 
-1. YAML & Linting
-2. Linux Commands
-3. Intro Docker & Kubernetes
+## 💠Topics 
+- AuthN & AuthZ
+- kubeconfig
+- RBAC
+- Volumes & Dynamic Provisioning
+- Storage Classes
 
-## Documentations
+## 🔗Documentations
+- https://kubernetes.io/docs/concepts/security/rbac-good-practices/
+- https://kubernetes.io/docs/reference/access-authn-authz/rbac/
 
-## Hand-Written Notes 
-https://drive.google.com/file/d/1QklZj1ReGGTmN3fbuqWfBh61cm6EXcE2/view
+
