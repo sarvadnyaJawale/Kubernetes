@@ -1,11 +1,15 @@
-# Day-1 
+#  Day11 | Monitoring, Logging, Tracing, Profiling | Prometheus, Jaeger, OTel, Grafana, eBPF
 
-## Topics : 
-1. YAML & Linting
-2. Linux Commands
-3. Intro Docker & Kubernetes
-
-## Documentations
-
-## Hand-Written Notes 
-https://drive.google.com/file/d/1QklZj1ReGGTmN3fbuqWfBh61cm6EXcE2/view
+## 💠Topics
+- Monitoring - Prometheus, Grafana
+- Logging
+- Tracing & Profiling
+- eBPF based tools & OTel
+  
+## 🔗Documentations
+- https://k8slens.dev/
+- https://github.com/derailed/k9s
+- https://grafana.com/docs/loki/latest/
+- https://github.com/pixie-io/pixie
+- https://grafana.com/docs/grafana/latest/
+- https://prometheus.io/docs/prometheus/latest/getting_started/
