@@ -1,11 +1,19 @@
-# Day-1 
+# Day 10 | Service Mesh, Secrets, CMs, External Secret Operator, Google Cloud Secret Manager
 
-## Topics : 
-1. YAML & Linting
-2. Linux Commands
-3. Intro Docker & Kubernetes
+## 💠Topics : 
+- ConfigMaps
+- Secrets
+- Sealed Secrets
+- External Secret Operator & GCSM
+- TLS & mTLS
+- Service Mesh
+- Celium & Istio
 
-## Documentations
+## 🔗Documentations
+- https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/
+- **sealed-secrets** https://github.com/bitnami-labs/sealed-secrets
+- https://external-secrets.io/latest/provider/google-secrets-manager/
+- https://docs.cilium.io/en/stable/overview/intro/
+- https://istio.io/latest/docs/ambient/getting-started/
 
-## Hand-Written Notes 
-https://drive.google.com/file/d/1QklZj1ReGGTmN3fbuqWfBh61cm6EXcE2/view
+
