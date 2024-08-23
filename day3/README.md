@@ -1,4 +1,4 @@
-# Day 2 | Kubernetes Architecture In-Depth - ApiServer, etcd, Admssion Controllers, Scheduling
+# Day 3 | Cloud & on-Prem Clusters, Images, Debug Container & Pods, kubectl
 
 ## 💠Topics 
 - kind cluster
