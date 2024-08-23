@@ -12,11 +12,11 @@
 - Debug Containers
 
 ## 🔗Documentations 
-► https://kubernetes.io/docs/home/
-► https://github.com/kubernetes-sigs/ki...
-► https://kubernetes.io/docs/reference/...
-► https://kind.sigs.k8s.io/
-► https://kubernetes.io/docs/tasks/debu...
-► https://kubernetes.io/docs/tasks/debu...
-► https://github.com/GoogleContainerToo...
-► https://github.com/derailed/k9s?tab=r...
+- https://kubernetes.io/docs/home/
+- https://github.com/kubernetes-sigs/kind/releases
+- https://kubernetes.io/docs/reference/command-line-tools-reference/feature-gates/
+- https://kind.sigs.k8s.io/
+- https://kubernetes.io/docs/tasks/debug/debug-cluster/kubectl-node-debug/
+- https://github.com/GoogleContainerTools/distroless
+- K9's  ### https://github.com/derailed/k9s?tab=readme-ov-file 
+
