@@ -1,4 +1,4 @@
-# 
+# Day 7 | Adding SSL Cert to the application | Cert-Manager, Gateway API, Namespaces, TLS 
 
 ## 💠Topics
 - Application Introduction
