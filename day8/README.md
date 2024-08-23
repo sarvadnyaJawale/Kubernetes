@@ -14,3 +14,6 @@
 - Affinity & Anti-Affinity
 
 ## 🔗Documentation
+- **topology-spread-constraints**https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/
+- **multi-tenancy**https://kubernetes.io/docs/concepts/security/multi-tenancy/
+- **built-in-node-labels** https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/#built-in-node-labels
