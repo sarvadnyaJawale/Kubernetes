@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fanout-deployment-1
+  labels:
+    app: app-1
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: app-1
+  template:
+    metadata:
+      labels:
+        app: app-1
+    spec:
+      containers:
+      - name: app1
+        image: techwithprerit/k8s-hindi-app1:1.2-major
+        ports:
+        - containerPort: 8080
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fanout-deployment-2
+  labels:
+    app: app-2
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: app-2
+  template:
+    metadata:
+      labels:
+        app: app-2
+    spec:
+      containers:
+      - name: app2
+        image: techwithprerit/k8s-hindi-app1:1.1
+        ports:
+        - containerPort: 8080
