@@ -18,5 +18,5 @@
 - https://kubernetes.io/docs/concepts/services-networking/service/#services-without-selectors
 - **End-PointSlices**https://kubernetes.io/docs/concepts/services-networking/endpoint-slices/
 
-## 📝Notes
+## 🐋Docker-image
 https://hub.docker.com/r/techwithprerit/k8s-hindi-app1
